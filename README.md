@@ -1,4 +1,4 @@
-# Analyzing Banking Trends: Customer Transactions and Regional Impact
+# Analyzing Banking Trends: Customer Transactions & Regional Impact
 In the ever-evolving world of banking and finance, understanding customer behavior and the regional impact of transactions plays a crucial role in decision-making and strategic planning. This project, titled "Analyzing Banking Trends: Customer Transactions and Regional Impact," aims to explore and analyze the vast troves of transaction data to gain valuable insights into customer behavior patterns and their implications on different world regions.
 
 
