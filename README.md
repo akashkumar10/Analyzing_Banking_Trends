@@ -16,7 +16,7 @@ user_nodes table: The user_nodes table holds crucial details about consumers' ba
 user_transaction table: This table is a comprehensive repository of customer transactions, containing data such as consumer IDs, transaction dates, types of transactions, and transaction amounts. Analyzing this data allows us to uncover patterns in customer spending and financial behaviors
 
 
-# Step by Step Process of Live Execution
+# Process of Execution
 
 ## 1. DATA PRE-PROCESSING USING PYTHON
 - Check the Null Values
